@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Registration-form-local-storage/static/css/main.0ac30f4d.css",
+    "main.js": "/Registration-form-local-storage/static/js/main.d43615e7.js",
+    "static/media/robot.png": "/Registration-form-local-storage/static/media/robot.b68da14fe5b97ff9c7da.png",
+    "index.html": "/Registration-form-local-storage/index.html",
+    "main.0ac30f4d.css.map": "/Registration-form-local-storage/static/css/main.0ac30f4d.css.map",
+    "main.d43615e7.js.map": "/Registration-form-local-storage/static/js/main.d43615e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ac30f4d.css",
+    "static/js/main.d43615e7.js"
+  ]
+}
